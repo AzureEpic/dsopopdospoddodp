@@ -3,6 +3,7 @@
     {
       "name": "Skybox",
       "type": "R15",
+      "buttonColor": "#00ffff",
       "assets": [
         100839513065432,
         13705944814,
@@ -16,6 +17,7 @@
     {
       "name": "Twisted",
       "type": "R15",
+      "buttonColor": "#8a2be2",
       "assets": [
         11595159513,
         6536470380,
@@ -30,6 +32,7 @@
     {
       "name": "Empty Outfit",
       "type": "R15",
+      "buttonColor": "#ffffff",
       "assets": []
     }
   ]
